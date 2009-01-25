@@ -6,6 +6,7 @@ generated_by: Dist::Zilla::Plugin::MetaYaml version 1.003
 license: perl
 name: Moose-Micro
 requires: 
+  B::Hooks::EndOfScope: 0
   Moose: 0
   Test::More: 0
-version: 0.001
+version: 0.002
